@@ -3,6 +3,7 @@ As a Teacher
 I want to convert decimal number to roman symbol
 so that I can teach my students
 
+@Integration
 Scenario: Generate a roman numeral
 Given a decimal number equal to <decimalNumber>
 When the roman numeral is generated
